@@ -1,7 +1,6 @@
 import copy
 import heapq
 
-#5/3/2020
 #Kin Hei Wong
 
 #HEURISTIC METHODS ARE LOCATED WITHIN GAMESTATE METHODS!!!
